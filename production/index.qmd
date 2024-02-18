@@ -6,4 +6,4 @@ title: 'Production'
 - 年: 1945
 - 観測単位: 県
 - リンク: test
-- メモ: memo test
+- メモ: Github actionで作る
