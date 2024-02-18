@@ -4,19 +4,9 @@
     "href": "production/index.html",
     "title": "Production",
     "section": "",
-    "text": "国内総生産\n\n年: 1945\n観測単位: 県\nリンク: test\nメモ: memo test",
+    "text": "国内総生産\n\n年: 1945\n観測単位: 県\nリンク: test\nメモ: Github actionで作った",
     "crumbs": [
       "Production"
-    ]
-  },
-  {
-    "objectID": "population/index.html",
-    "href": "population/index.html",
-    "title": "Population",
-    "section": "",
-    "text": "人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo\n\n\n\n男女別人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo",
-    "crumbs": [
-      "Population"
     ]
   },
   {
@@ -54,6 +44,16 @@
     "text": "研究資金提供元\n科研費？",
     "crumbs": [
       "About"
+    ]
+  },
+  {
+    "objectID": "population/index.html",
+    "href": "population/index.html",
+    "title": "Population",
+    "section": "",
+    "text": "人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo\n\n\n\n男女別人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo",
+    "crumbs": [
+      "Population"
     ]
   }
 ]
