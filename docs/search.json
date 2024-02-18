@@ -1,0 +1,59 @@
+[
+  {
+    "objectID": "production/index.html",
+    "href": "production/index.html",
+    "title": "Production",
+    "section": "",
+    "text": "国内総生産\n\n年: 1945\n観測単位: 県\nリンク: test\nメモ: memo",
+    "crumbs": [
+      "Production"
+    ]
+  },
+  {
+    "objectID": "population/index.html",
+    "href": "population/index.html",
+    "title": "Population",
+    "section": "",
+    "text": "人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo\n\n\n\n男女別人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo",
+    "crumbs": [
+      "Population"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "経済学・社会科学のための日本史データカタログ",
+    "section": "",
+    "text": "このページは歴史データを使った研究や教育をする際に有用となるデータのありかを網羅すべく有志によって運営されているものです。既存データの紹介が今の所メインですが、独自データの公開なども将来的に行なっていく予定です。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "このページについて/About This Page\n\n\n\nこのページは歴史データを使った研究や教育をする際に有用となるデータのありかを網羅すべく有志によって運営されているものです。既存データの紹介が今の所メインですが、独自データの公開なども将来的に行なっていく予定です。",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#主な運営者",
+    "href": "about.html#主な運営者",
+    "title": "About",
+    "section": "主な運営者",
+    "text": "主な運営者\n神戸大学経済学研究科講師 山﨑潤一",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#研究資金提供元",
+    "href": "about.html#研究資金提供元",
+    "title": "About",
+    "section": "研究資金提供元",
+    "text": "研究資金提供元\n科研費？",
+    "crumbs": [
+      "About"
+    ]
+  }
+]
