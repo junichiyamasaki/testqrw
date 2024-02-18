@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  
+
+website:
+  page-navigation: true
+  title: "JH-Data"
+
+  page-footer:
+    left: "&copy; Copyright 2022, Author"
+
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  # 
+  #     - href: projects/index.qmd
+  #       text: Projects
+  # 
+  #     - href: about.qmd
+  #       text: About
+
+  sidebar:
+    contents: auto
+    # contents: 
+    #   - population/index.qmd
+    search: true
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

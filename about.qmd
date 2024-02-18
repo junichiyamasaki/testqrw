@@ -1,0 +1,30 @@
+---
+title: "About"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+---
+
+:::callout-note
+## このページについて/About This Page
+説明文
+
+:::
+
+
+::: {#hero-heading}
+
+
+
+## 主な運営者
+
+神戸大学経済学研究科講師 山﨑潤一
+
+## 研究資金提供元
+
+科研費？
+
+:::
+

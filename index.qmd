@@ -1,0 +1,16 @@
+---
+title: "タイトル"
+image: profile.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+---
+
+::: {#hero-heading}
+
+説明文
+
+
+:::
+

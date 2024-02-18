@@ -1,0 +1,4 @@
+カテゴリ,変数名,年,データソース,観測単位,リンク,メモ
+人口/population,人口,1930,センサス,郡,test,memo
+人口/population,男女別人口,1930,センサス,郡,test,memo
+生産/production,国内総生産,1945,センサス,県,test,memo
