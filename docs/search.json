@@ -14,7 +14,7 @@
     "href": "population/index.html",
     "title": "Population",
     "section": "",
-    "text": "人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo\n\n\n\n男女別人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo",
+    "text": "人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo\n\n\n\n男女別人口\n\n年: 1930\n観測単位: 郡\nリンク: test\nメモ: memo test",
     "crumbs": [
       "Population"
     ]
@@ -54,6 +54,26 @@
     "text": "研究資金提供元\n科研費？",
     "crumbs": [
       "About"
+    ]
+  },
+  {
+    "objectID": "links/index.html",
+    "href": "links/index.html",
+    "title": "Useful Links",
+    "section": "",
+    "text": "順不同に参考になるサイトを並べています。\n\nデータベースなど\n\n統計局による統計史料一覧\n筑波大学大学院　生命環境科学研究科空間情報科学分野 村山祐司研究室　歴史地域統計データ: 行政区域のシェープファイルやセンサスや徴発物件一覧などの地理的に細かいデータが公開されています。\nCenter for Open Data in the Humanities (CODH): 緯度経度情報つきの大名一覧や江戸の商店一覧、地名一覧など高品質なデータが公開されています。また前述の行政区域一覧もアップデートされています。\n国会図書館デジタルコレクション: 多くの資料が電子化され公開されています。OCRもかかっているので気になる単語を入れて検索すると良いと思います。\nリサーチナビ: 国立国会図書館が提供する文献案内です。",
+    "crumbs": [
+      "Useful Links"
+    ]
+  },
+  {
+    "objectID": "links/index.html#学会など",
+    "href": "links/index.html#学会など",
+    "title": "Useful Links",
+    "section": "# 学会など",
+    "text": "# 学会など",
+    "crumbs": [
+      "Useful Links"
     ]
   }
 ]
